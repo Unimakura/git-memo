@@ -1,0 +1,8 @@
+[core]
+  editor = vim
+
+  # 日本語の文字化けを防ぐ
+  quotepath = false
+
+[include]
+  path = ~/.gitconfig.aliases
